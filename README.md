@@ -17,8 +17,6 @@ Cómo usarlo
 
     Descarga el último release de este repositorio.
 
-    Ejecuta RedDeadWorldLauncher.exe (o el binario correspondiente en tu plataforma).
-
     Pulsa “Limpiar caché” si eres la primera vez o si experimentas problemas de carga.
 
     Haz clic en “Conectar” y ¡a disfrutar del roleplay!
