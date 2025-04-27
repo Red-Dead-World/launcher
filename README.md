@@ -31,3 +31,5 @@ Tener instalado Red Dead Redemption 2 (versión oficial).
 Tener instalado RedM.
 
 🌵 ¡Únete hoy a la experiencia única de Red Dead World RP!
+
+![BANNERCONNECT](https://github.com/user-attachments/assets/ddef9f55-caf5-4dde-b42b-76f81562e0b2)
