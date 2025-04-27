@@ -1,26 +1,33 @@
-# Launcher
-Launcher para el servidor de roleplay Red Dead World, caracteristicas borrar cache y conectar al servidor 
+🚀 RDW Launcher v1.1 — ¡Portable!
+RDW Launcher es el lanzador oficial para el servidor de roleplay Red Dead World, ahora más ligero y fácil que nunca: versión portable, sin instalación, descarga directa. 🤠
 
-Launcher para Red Dead World RP
+✨ Características principales
+🧹 Limpieza de caché automática: elimina la carpeta data de RedM para un arranque limpio y sin errores.
 
-Este proyecto proporciona un lanzador ligero y fácil de usar para conectarte al servidor de roleplay Red Dead World. Entre sus características principales destacan:
+🎯 Conexión directa: abre el juego y te conecta automáticamente a Red Dead World, sin pasos manuales.
 
-    Limpieza de caché: Elimina automáticamente archivos temporales y datos obsoletos para garantizar un arranque limpio y libre de errores.
+📢 Acceso rápido a Discord: únete al Discord oficial directamente desde el launcher.
 
-    Conexión directa: Inicia el juego y se conecta de forma automática al servidor de Red Dead World sin pasos manuales adicionales.
+🎒 Versión 100% portable: solo descarga el .exe, ejecútalo, ¡y listo!
 
-    Interfaz intuitiva: Diseño sencillo que facilita su uso tanto a veteranos como a nuevos jugadores.
+🖥️ Interfaz intuitiva: simple y amigable para todos los jugadores.
 
-    Actualizaciones automáticas: Comprueba y descarga la versión más reciente del cliente al arrancar.
+🔄 Actualizaciones automáticas: (próximamente) el launcher verificará nuevas versiones al arrancar.
 
-Cómo usarlo
+📦 ¿Cómo usarlo?
+Descarga el archivo .exe directamente desde la sección de Releases.
 
-    Descarga el último release de este repositorio.
+Guarda el archivo en la carpeta que prefieras (o incluso en una memoria USB).
 
-    Pulsa “Limpiar caché” si eres la primera vez o si experimentas problemas de carga.
+Ejecuta RDWLauncher.exe.
 
-    Haz clic en “Conectar” y ¡a disfrutar del roleplay!
+(Opcional) Haz clic en "Limpiar caché" si es tu primer inicio o si tienes problemas de carga.
 
-    Requisitos previos: Tener instalado Red Dead Redemption 2 en su versión oficial.
+Haz clic en "Conectar" y ¡sumérgete en Red Dead World!
 
-¡Únete ya a la experiencia única de Red Dead World RP!
+🎯 Requisitos previos
+Tener instalado Red Dead Redemption 2 (versión oficial).
+
+Tener instalado RedM.
+
+🌵 ¡Únete hoy a la experiencia única de Red Dead World RP!
